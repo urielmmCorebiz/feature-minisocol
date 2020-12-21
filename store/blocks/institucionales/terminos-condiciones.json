@@ -1,0 +1,198 @@
+{
+    "store.custom#terminos-condiciones": {
+        "blocks": [
+            "flex-layout.row#terminos-condiciones"
+        ]
+    },
+    "flex-layout.row#terminos-condiciones": {
+        "children": [
+            "flex-layout.col#text-terminos-condiciones"
+        ],
+        "props": {
+            "blockClass": [
+                "page-institucionales",
+                "terminos-condiciones"
+            ]
+        }
+    },
+    "flex-layout.col#text-terminos-condiciones": {
+        "children": [
+            "rich-text#title-terminos-condiciones",
+            "rich-text#terminos-condiciones-section-1",
+            "rich-text#terminos-condiciones-section-2",
+            "rich-text#terminos-condiciones-section-3",
+            "rich-text#terminos-condiciones-section-4",
+            "rich-text#terminos-condiciones-section-5",
+            "rich-text#terminos-condiciones-section-6",
+            "rich-text#terminos-condiciones-section-7",
+            "rich-text#terminos-condiciones-section-8",
+            "rich-text#terminos-condiciones-section-9",
+            "rich-text#terminos-condiciones-section-10",
+            "rich-text#terminos-condiciones-section-11",
+            "rich-text#terminos-condiciones-section-12",
+            "rich-text#terminos-condiciones-section-13",
+            "rich-text#terminos-condiciones-section-14",
+            "rich-text#terminos-condiciones-section-15",
+            "rich-text#terminos-condiciones-section-16",
+            "rich-text#terminos-condiciones-section-17",
+            "rich-text#terminos-condiciones-section-18"
+        ],
+        "props": {
+            "blockclass": [
+                "page-institucionales",
+                "terminos-condiciones"
+            ],
+            "preventVerticalStretch": true
+        }
+    },
+    "rich-text#title-terminos-condiciones": {
+        "props": {
+            "text": "# TÉRMINOS Y CONDICIONES DE USO DEL SITIO",
+            "blockClass": ""
+        }
+    },
+    "rich-text#terminos-condiciones-section-1": {
+        "props": {
+            "text": "Los presentes Términos y Condiciones de Uso del Sitio (en lo sucesivo “Términos y Condiciones”) serán de aplicación obligatoria respecto del uso y operación de este Sitio web: https://www.miniso.com.mx (en lo sucesivo el “Sitio”), así como respecto de las transacciones comerciales celebradas entre MINISO MÉXICO, S.A.P.I. de C.V., (en lo sucesivo “MINISO”) y el Usuario. Al acceder y utilizar el Sitio, usted acepta estos Términos y Condiciones en su totalidad, además de cualquier otra ley, reglamento o normatividad que sea aplicable al Sitio o a las transacciones comerciales que en el mismo se celebren. Si usted no acepta estos Términos y Condiciones en su totalidad, por favor, abandone el Sitio.\nEl Sitio es operado por MINISO, sociedad legalmente constituida bajo las leyes de los Estados Unidos Mexicanos, con domicilio en Boulevard Manuel Ávila Camacho 118, Piso 2, Colonia Lomas de Chapultepec V Sección, Alcaldía Miguel Hidalgo, C.P. 11000, Ciudad de México, con Registro Federal de Contribuyentes MME160812J15, y con correo electrónico para contacto: tiendaenlinea@miniso.com.mx.\nEl Sitio y su contenido está dirigido a los residentes legales de los Estados Unidos Mexicanos, por lo que la publicidad e información presentada en el mismo son válidas únicamente en los Estados Unidos Mexicanos.\nEl acceso y utilización del Sitio implican, igualmente, su consentimiento expreso respecto de nuestro <a href='/aviso-de-privacidad'>Aviso de Privacidad</a>.",
+            "blockClass": [
+                "terminos-condiciones-section-feature"
+            ]
+        }
+    },
+    "rich-text#terminos-condiciones-section-2": {
+        "props": {
+            "text": "## 1.- USUARIOS.\nPodrán tener la calidad de Usuarios del Sitio todas las personas mayores de edad que sean residentes legales en los Estados Unidos Mexicanos.\nEl acceso y utilización del Sitio implican que Usted manifiesta tener capacidad legal para contratar, en términos del artículo 1798 del Código Civil Federal.\nLos actos de los menores de edad y personas con incapacidad legal que ingresen al Sitio quedan bajo la estricta responsabilidad de los padres, tutores o mayor de edad a cuyo cargo se encuentran, en términos de lo establecido en los artículos 1919, 1920 y 1921 del Código Civil Federal.\n #### 1.1.- Obligaciones de los Usuarios.\nEl Usuario se obliga a respetar y cumplir con las estipulaciones contenidas en los presentes Términos y Condiciones al momento de acceder y hacer uso del Sitio.\nEl Usuario se obliga a que la información que proporcione para el acceso y uso del Sitio y para la celebración de las transacciones comerciales en el mismo, será verídica, correcta y comprobable, por lo que el Usuario igualmente garantiza ser el legítimo titular de la misma.\nEl Usuario se obliga a proporcionar a MINISO, vía correo electrónico y a la brevedad, toda aquella documentación que le sea requerida a efecto de confirmar la información por él proporcionada para el acceso y uso del Sitio y para la celebración de las transacciones comerciales.\nEl Usuario se obliga a hacer uso del Sitio con apego a la normatividad aplicable y manifiesta que tiene pleno conocimiento de los alcances legales que implica realizar transacciones comerciales por medios electrónicos en Internet.\nQueda prohibido a cualquier Usuario utilizar el Sitio para fines distintos a los establecidos en los presentes Términos y Condiciones, así como enviar o transmitir cualquier contenido generado por el mismo que infrinja o pueda infringir cualquier derecho de propiedad intelectual de MINISO o de cualquier tercero, o que sea amenazador, falso, engañoso, subversivo, difamatorio, invasor de la privacidad, obsceno, pornográfico, abusivo, discriminatorio o ilegal, o que pueda constituir o incitar a conductas que podrían considerarse una infracción penal, violar los derechos de alguna de las partes o que puedan dar lugar a cualquier otra forma de  responsabilidad civil o violar alguna ley.\nEl Usuario se obliga a mantenerse al tanto de cualquier modificación a los presentes Términos y Condiciones y a consultar de manera periódico los mismos.\nLos Usuarios del Sitio deberán conducirse con respeto, de manera que no realicen un ejercicio abusivo de su derecho a la libertad de expresión dentro del Sitio.\nEn caso de que el Usuario incumpla con cualquier de las obligaciones que a su cargo se establecen en los presentes Términos y Condiciones, MINISO podrá limitar o restringir su acceso al Sitio.",
+            "blockClass": [
+                "terminos-condiciones-section-feature"
+            ]
+        }
+    },
+    "rich-text#terminos-condiciones-section-3": {
+        "props": {
+            "text": "## 2.- ACCESO AL SITIO.\nPara acceder y hacer uso del Sitio, el Usuario podrá elegir entre las siguientes opciones:\n * Proporcionar un correo electrónico para generar un código de acceso, el cual será enviado al correo electrónico proporcionado. El código de acceso funcionará como una clave dinámica de un solo uso, con una vigencia determinada. \n * Registrarse a través de la plataforma del Sitio, completando el formulario de inscripción en todos sus campos. Para estos efectos el Usuario deberá proporcionar los datos solicitados.\n * Iniciar sesión a través de la red social **Facebook**, caso en el que tendrá que proporcionar el correo electrónico con el que tiene dada de alta su cuenta de **Facebook** y la contraseña de la misma.\n * Iniciar sesión con Google, caso en el que tendrá que proporcionar su correo electrónico con el dominio “*@gmail.com*” y la contraseña del mismo. \n\nMINISO no es responsable de la veracidad ni de la corrección de los datos proporcionados por los Usuarios al acceder y hacer uso del Sitio o al realizar transacciones comerciales en el mismo, ni tiene la obligación de verificarlos.",
+            "blockClass": [
+                "terminos-condiciones-section-feature"
+            ]
+        }
+    },
+    "rich-text#terminos-condiciones-section-4": {
+        "props": {
+            "text": "## 3.- PROCEDIMIENTO PARA LA ADQUISICIÓN DE LOS PRODUCTOS.\nNo existirá contrato alguno entre el Usuario y MINISO con relación a cualquier producto, hasta que la solicitud de compra haya sido confirmada por MINISO y el pago del precio correspondiente haya sido igualmente acreditado a MINISO.\nMINISO publicará en el Sitio los productos y el precio total que el Usuario deberá pagar por ellos. De igual manera, se indicará si existe alguna promoción y/o descuento respecto de los mismos, así como la vigencia de la misma.\nLos precios de los productos anunciados dentro del Sitio es el precio total, pues incluyen el impuesto al valor agregado. Sin embargo, se excluyen los gastos de envío que se añadirán en su momento al importe total debido.\nPara el caso de que se haga una solicitud de compra y no haya existencias del artículo de que se trate, MINISO realizará la devolución del pago. El reembolso será realizado por el medio que corresponda, dependiendo del método de pago usado por el Usuario en la compra.\nEl procedimiento para la adquisición de los productos que comercializa MINISO se compone de tres fases: Revisar carrito, Envío y Facturación y Revisión y Pago.\nPrevio a las fases antes mencionadas, el Usuario deberá haber ingresado al Sitio y seleccionado el (los) producto(s) que desea adquirir, haberlo(s) añadido(s) al carrito y presionar el botón “Comprar” para que el Sitio lo enlace al “Carrito de compras” \n\n* **Revisar carrito**\n * En la fase “Revisar carrito”, el Usuario podrá verificar la información resumida del (los) producto(s) que va a adquirir (nombre, precio, cantidad de productos, Subtotal, Impuestos y cantidad total a pagar) y realizar cambios si así lo desea.\n * Una vez hecho lo anterior, el Usuario presionará el botón “Finalizar compra” para que el Sitio lo enlace a la siguiente fase. \n\n* **Envío y Facturación**\n * Para continuar con la compra, en la fase “Envío y Facturación”, el Usuario deberá dirigirse a la sección denominada “Identificación” en el que proporcionará los siguientes datos personales: correo electrónico, nombre completo y número telefónico, a efecto de que MINISO se contacte con el Usuario durante el proceso de compra.\n * Una vez hecho lo anterior, el Usuario deberá presionar el botón “Ir para la entrega” para poder continuar con el proceso de compra.\n * En la sección denominada “Entrega” se deberán proporcionar los datos correspondientes a la dirección en donde se realizará el envío del (de los) producto(s) adquirido(s) dentro del Sitio, así como el nombre de la persona que lo(s) recibirá, a efecto de que se calcule el costo del envío. Estos datos son única y exclusiva responsabilidad del Usuario, por lo que cualquier error en los mismos, y la consecuencia de ello, no generará responsabilidad alguna para MINISO.\n * Una vez hecho lo anterior, el Usuario debe presionar el botón “Ir para el pago”. \n\n* **Revisión y Pago**\n * En la fase “Revisión y Pago”, el Usuario deberá seleccionar el medio de pago que más le convenga.  En los casos de pago con tarjeta de crédito o débito, el Usuario deberá proporcionar los datos completos de su tarjeta de crédito o débito, incluyendo los datos de seguridad de la misma.\n * En esta fase, el Usuario podrá revisar, y modificar si así lo desea, la información de las secciones “Identificación” y “Entrega” es decir, sus datos personales y las opciones de entrega del (de los) producto(s) adquirido(s), antes de aceptar la compra.\n * Si el Usuario se encuentra de acuerdo con todo lo anterior, en especial con el precio de los productos y el monto de los gastos de envío, deberá presionar el botón “Comprar ahora”.\n\nUna vez completado el procedimiento antes referido, MINISO notificará al Usuario, en la dirección de correo electrónico que éste hubiera proporcionado al momento de realizar su compra, todos los detalles de la misma. Este primer correo no perfecciona la compraventa, pues ello ocurrirá hasta que el pago correspondiente haya sido acreditado a MINISO.\nEn caso de ser procedente, el Usuario deberá realizar el pago del precio de los productos adquiridos tras la recepción de este primer correo electrónico, y dentro del término establecido en el texto del mismo. De no cubrirse el pago en ese plazo, la compra será cancelado sin responsabilidad para MINISO.\nMINISO enviará al Usuario el segundo correo electrónico en el que confirme el pago realizado, o bien, informe que el mismo ha sido denegado.\nEl periodo de entrega de los productos adquiridos comienza a contar desde el momento en que se confirme la acreditación del pago.\nAcreditado el pago se notificará al Usuario, a través de un tercer correo electrónico, la confirmación de que el (los) producto(s) han sido enviado(s), proporcionándole el número de identificación asignado por la empresa de paquetería para el seguimiento y/o rastreo del envío del (de los) producto(s).\nEn caso de que el pago haya sido denegado, el usuario recibirá igualmente un tercer correo electrónico en el que se indique que la compra ha sido cancelada.",
+            "blockClass": [
+                "terminos-condiciones-section-feature"
+            ]
+        }
+    },
+    "rich-text#terminos-condiciones-section-5": {
+        "props": {
+            "text": "## 4.- LOS PRODUCTOS.\nLos productos ofertados por MINISO se encuentran en la página web https://www.miniso.com.mx, en el apartado denominado “CATÁLOGO” en donde se muestran las diversas familias de los productos, tales como: Salud y belleza, Moda, Cosméticos, Bolsas y mochilas, Deportes, Hogar, Juguetes, Papelería, Tecnología y Viajes.\nLas especificaciones generales de los productos que comercializa MINISO se encontrarán en el Sitio, no obstante, los usuarios, antes de utilizar los productos, deben leer las etiquetas, advertencias e instructivos de los mismos para su uso correcto.\nEn caso de surgir alguna duda, queja o sugerencia sobre los productos, el usuario podrá enviar un correo electrónico a la siguiente dirección: tiendaenlinea@miniso.com.mx  para que alguno de los asesores de MINISO atienda su solicitud.",
+            "blockClass": [
+                "terminos-condiciones-section-feature"
+            ]
+        }
+    },
+    "rich-text#terminos-condiciones-section-6": {
+        "props": {
+            "text": "## 5.- PAGO Y FACTURACIÓN.\nMINISO dentro del Sitio aceptará como forma de pago, la pasarela de pagos que ofrece el motor de pagos denominado Mercado Pago, las cuales se enlistan a continuación:\n * Pago con tarjetas de crédito: Visa, MasterCard y American Express.\n * Pago con tarjetas de débito: Visa y MasterCard.\n * Pago en efectivo a través de las tiendas de conveniencia OXXO y 7 Eleven.\n * Pago en efectivo en instituciones bancarias Santander, BBVA y Citibanamex.\n * Pago mediante transferencia electrónica desde cuentas aperturadas en las instituciones bancarias Santander, BBVA y Citibanamex.\n * Pago con el saldo en la cuenta de Mercado Pago del Usuario.\n\nEl Usuario deberá cubrir la cantidad completa y exacta marcada por el Sitio, incluyendo el costo de envío correspondiente a su compra, para que ésta sea procesada con éxito.\nEl proceso de autorización del pago podrá llevarse a cabo en un plazo no mayor a tres (3) días hábiles, contados a partir de la fecha en que el Usuario proporcioné los datos de su tarjeta de crédito o débito, efectué el pago en efectivo a través de las Tiendas de conveniencia o de las instituciones bancarias, realice la transferencia electrónica o use el saldo de su cuenta de Mercado Pago.\nEn caso de que el Usuario requiera facturar su compra, deberá acceder al portal <a href='http://facturacion.miniso.com.mx:8384/' target='_blank'>Facturación</a>, y proporcionar la información que ahí se le solicitará al efecto. \nLa veracidad y corrección de los datos proporcionados al solicitar la factura son única y exclusiva responsabilidad del Usuario, por lo que cualquier error en los mismos no generará responsabilidad alguna a cargo de MINISO.\nEl Usuario sólo tendrá siete (7) días naturales, contados a partir la de fecha de recepción del correo en el que MINISO le confirme la acreditación del pago del precio de los productos adquiridos, para solicitar la factura correspondiente.\nLa factura correspondiente será enviada a la dirección de correo electrónico que el Usuario indique, en formatos PDF y XML.",
+            "blockClass": [
+                "terminos-condiciones-section-feature"
+            ]
+        }
+    },
+    "rich-text#terminos-condiciones-section-7": {
+        "props": {
+            "text": "## 6.- ENVÍO Y ENTREGA DEL PRODUCTO.\nLos gastos de envío correrán a cargo del Usuario. Previo a que el Usuario concluya con el proceso de compra descrito en el numeral “3.2.3” de estos Términos y Condiciones, se le dará a conocer el monto de los gastos de envío, el cual se agregará al precio total del (de los) producto(s) que desee adquirir.\nEl servicio de paquetería hará la entrega del paquete en el domicilio designado por el Usuario, de lunes a viernes (excepto días inhábiles).\nPara hacer el seguimiento del envío de los productos adquiridos el Usuario podrá consultar la página http://www.dhl.com.mx/es/express/rastreo.html e ingresar el número de identificación que le fue proporcionado.\nEn caso de tener algún problema relacionado con el envío, el Usuario deberá enviar un correo electrónico a la siguiente dirección: tiendaenlinea@miniso.com.mx, mediante el cual proporcione el número de orden de su compra y número de seguimiento asignado por la paquetería, para que el personal de MINISO atienda y dé seguimiento a su problemática.\nLa entrega del envío se hará al Usuario personalmente, a un tercero señalado por éste, o a la persona que se encuentre en el domicilio señalado por el Usuario como lugar de entrega, lo que se acreditará con la firma de recepción del envío en la dirección de entrega convenida.\nEn el supuesto de que el Usuario no sea localizado en el domicilio por él señalado para la entrega del envío y la empresa de paquetería lo devuelva a MINISO, MINISO contactará al Usuario a través del correo electrónico proporcionado por él mismo para que, si así lo desea, señale un nuevo domicilio para la entrega de los productos adquiridos y pague el costo del nuevo envío de los productos adquiridos en el Sitio.\nEl Usuario reconoce y acepta que el (los) producto(s) adquirido(s) podrá(n) ser destruido(s) o abandonado(s) por MINISO si transcurren más de treinta (30) días naturales contados a partir de haberse enviado el correo electrónico mencionado en el párrafo anterior al Usuario y éste sea omiso en señalar un nuevo domicilio y pagar el costo del nuevo envío, sin que le sea imputable a MINISO responsabilidad alguna en este caso.\nMINISO enviará el (los) producto(s) adquirido(s) a la brevedad posible, sin embargo, en caso de retrasos, perdidas o detrimento de los productos, ocasionados por causas de fuerza mayor o casos fortuitos, MINISO no tendrá responsabilidad alguna, ni estará obligado a pagar indemnización alguna al Usuario.",
+            "blockClass": [
+                "terminos-condiciones-section-feature"
+            ]
+        }
+    },
+    "rich-text#terminos-condiciones-section-8": {
+        "props": {
+            "text": "## 7.- DEVOLUCIÓN DE PRODUCTOS.\nEl Usuario podrá devolver el (los) producto(s) adquirido(s) en el Sitio en cualquiera de las Tiendas del país donde se haya comprado el producto, dentro de los treinta (30) días naturales posteriores a la apertura de las Tiendas, por alguna de las siguientes causas:\n * Si el (los) producto(s) se encuentra(n) dañado(s) o defectuoso(s).\n * Si el (los) producto(s) recibido(s) es (son) diferente(s) del (de los) adquirido(s).\n\nEn caso de que el Usuario desee devolver el (los) producto(s) adquirido(s) por alguna de las causas antes señaladas, deberá enviar un correo electrónico, dentro del plazo señalado arriba, a la siguiente dirección: tiendaenlinea@miniso.com.mx,  en el que señalará:\n * El motivo por el cual desea realizar la devolución.\n * Número de orden de compra.\n * Correo electrónico con el cual accedió al Sitio.\n * Fecha de la entrega del (de los) producto(s).\n * Número de seguimiento que le fue proporcionado para el rastreo del envío.\n\nUna vez enviado el correo electrónico por el Usuario, MINISO atenderá y le dará seguimiento a la petición realizada, a efecto de que, de ser procedente su solicitud, se le indique el procedimiento a seguir para que el Usuario pueda realizar la devolución correspondiente.\nLa devolución del (de los) producto(s) procederá siempre y cuando el Usuario cumpla con los siguientes requisitos:\n * El (los) producto(s) deberá(n) ser nuevo(s) y sin uso, conservando el estado original que guardaba(n) cuando fue(ron) recibido(s) por el Usuario (incluyendo accesorios, empaques, manuales, entre otros).\n * El (los) producto(s) no deberá(n) presentar muestras de maltrato.\n * El (los) producto(s) deberá(n) conservar su envoltura original.\n * El (los) producto(s) no deberá(n) estar alterados por el Usuario.\n\nDerivado de sus características particulares, no existen devoluciones en las siguientes categorías de productos: salud, ropa interior, belleza, higiene personal, cosméticos, perfumes, pilas alcalinas o de litio y trajes de baño.\nEn caso de no cumplir con los pasos y requisitos previamente señalados, MINISO rechazará la solicitud de devolución.\nPara el caso de que proceda la devolución del pago efectuado por la compra, el reembolso será realizado por el medio que corresponda, dependiendo del método de pago usado por el Usuario en la compra, los cuales se detallan en el numeral 5 de los presentes Términos y Condiciones.\nEl Usuario reconoce y acepta que MINISO no es una Institución Financiera, por lo que no se hace responsable del tiempo que se demora la devolución del monto pagado por la compra a tarjetas de débito o crédito, ya que la devolución de monto pagado es enteramente responsabilidad de la entidad financiera o empresa que emite la tarjeta VISA o MASTERCARD o American Express, por lo que MINISO carece de facultades para intervenir en dichas situaciones.\nEn tal virtud, el Usuario deslinda a MINISO de cualquier responsabilidad por cualquier circunstancia que retrase o impida la devolución de dinero, caso en el cual el Usuario tendrá la obligación de hacer el reclamo correspondiente ante su Institución Financiera.",
+            "blockClass": [
+                "terminos-condiciones-section-feature"
+            ]
+        }
+    },
+    "rich-text#terminos-condiciones-section-9": {
+        "props": {
+            "text": "## 8.- DERECHOS DEL USUARIO Y REVOCACIÓN DE CONSENTIMIENTO.\nEl Usuario, en su calidad de consumidor, tendrá todos los derechos que a su favor establece la Ley Federal de Protección al Consumidor.\nAdemás, el Usuario podrá revocar su consentimiento respecto de la compra de que se trate dentro de los cinco (5) días posteriores a la fecha de entrega del (de los) producto(s) adquirido(s).\nEn caso de que el Usuario desee ejercer su derecho de revocar su consentimiento, deberá enviar, dentro del plazo señalado en el párrafo anterior, un correo electrónico a la siguiente dirección: tiendaenlinea@miniso.com,  en el que señalará:\n * El motivo por el cual desea realizar la cancelación, de considerarlo conveniente.\n * Número de orden de compra.\n * Correo electrónico con el cual accedió al Sitio.\n * Fecha de la compra.\n * Número de seguimiento que le fue proporcionado para el rastreo del envío.\n\nUna vez enviado el correo electrónico por el Usuario, MINISO le enviará un primer correo electrónico al usuario, en el que acusará de recibida su petición y le indicará el domicilio al que deberá enviar los productos adquiridos respecto de los que ejerció su derecho de revocar su consentimiento.\nDentro de los dos (2) días hábiles siguientes a la recepción del correo electrónico mencionado en el punto anterior, el usuario deberá enviar a MINISO, a la dirección al efecto señalada, el (los) producto(s) adquirido(s) vía una empresa de paquetería. El consumidor asumirá el costo del flete y deberá contratar, además, el seguro del flete correspondiente.\nPara la devolución del (de los) producto(s), el usuario deberá cumplir con los siguientes requisitos:\n * El (los) producto(s) deberá(n) ser nuevo(s) y sin uso, conservando el estado original que guardaba(n) cuando fue(ron) recibido(s) por el Usuario (incluyendo accesorios, empaques, manuales, entre otros).\n * El (los) producto(s) no deberá(n) presentar muestras de maltrato.\n * El (los) producto(s) deberá(n) conservar su envoltura original.\n * El (los) producto(s) no deberá(n) estar alterados por el Usuario.\n\nEn caso de no cumplir con los pasos y requisitos previamente señalados, MINISO podrá rechazar la solicitud de cancelación y no procederá su reembolso.\nUna vez hecha la devolución del (de los) producto(s), el reembolso de la cantidad pagada por el costo del (de los) producto(s), será realizado por el medio que corresponda, dependiendo del método de pago usado por el Usuario en la compra, los cuales se detallan en el numeral 5 de los presentes Términos y Condiciones.\nEl Usuario reconoce y acepta que MINISO no es una Institución Financiera, por lo que no se hace responsable del tiempo que se demora la devolución del monto pagado por la compra a tarjetas de débito o crédito, ya que la devolución de monto pagado es enteramente responsabilidad de la entidad financiera o empresa que emite la tarjeta VISA o MASTERCARD o American Express, por lo que MINISO carece de facultades para intervenir en dichas situaciones.\nEn tal virtud, el Usuario deslinda a MINISO de cualquier responsabilidad por cualquier circunstancia que retrase o impida la devolución de dinero, caso en el cual el Usuario tendrá la obligación de hacer el reclamo correspondiente ante su Institución Financiera.",
+            "blockClass": [
+                "terminos-condiciones-section-feature"
+            ]
+        }
+    },
+    "rich-text#terminos-condiciones-section-10": {
+        "props": {
+            "text": "## 9.- GARANTÍA.\nMINISO ofrece una garantía únicamente por lo que hace a los productos eléctricos, electrónicos y electrodomésticos que comercializa.\nEn el supuesto de que el (los) producto(s), que adquirió el Usuario no tenga(n) un adecuado funcionamiento o tenga(n) defectos cuyo origen sean imputables al fabricante, y se encuentre(n) dentro del plazo de noventa (90) días podrá hacer valida la garantía de los mismos, (exceptuando los productos electrodomésticos, los cuales cuentan con un plazo de garantía de un (1) año), contado a partir de la entrega del (de los) producto(s), el Usuario deberá enviar un correo electrónico a la dirección tiendaenlinea@miniso.com.mx, a efecto de solicitar que se haga efectiva la garantía, en donde se deberá señalar\n * Número de orden de compra.\n * Fecha de compra.\n * Cuál es el motivo por el cual se está solicitando la garantía (falla en específico).\n * Comprobar mediante videos, fotos o demás similares la falla del producto.\n * Correo electrónico con el cual accedió al Sitio.\n\nUna vez recibido el correo electrónico por el personal de MINISO, éste le dará seguimiento a la petición realizada, y en caso de ser procedente su solicitud, le dará al Usuario las instrucciones a seguir para poder hacer efectiva la garantía.\nEn caso de no cumplir con los pasos y requisitos previamente señalados, dentro de los plazos estipulados, MINISO no hará efectiva la garantía.",
+            "blockClass": [
+                "terminos-condiciones-section-feature"
+            ]
+        }
+    },
+    "rich-text#terminos-condiciones-section-11": {
+        "props": {
+            "text": "## 10.- REEMBOLSO\nÚnicamente en los casos expresamente contemplados en los presentes Términos y Condiciones se realizará un reembolso de dinero al Usuario, el cual se efectuará según corresponda al medio de pago empleado por el Usuario para cubrir el precio de los productos adquiridos.\nCualquier cuestión relacionada con este apartado deberá de consultarse mediante el correo electrónico tiendaenlinea@miniso.com.mx en donde personal de MINISO atenderá y dará seguimiento a la problemática planteada por el Usuario.\nEl Usuario reconoce y acepta que MINISO no es una Institución Financiera, por lo que no se hace responsable del tiempo que se demora la devolución del monto pagado por la compra a tarjetas de débito o crédito, ya que la devolución de monto pagado es enteramente responsabilidad de la entidad financiera o empresa que emite la tarjeta VISA o MASTERCARD o American Express, por lo que MINISO carece de facultades para intervenir en dichas situaciones.\nCualquier fecha proporcionada por MINISO respecto de la acreditación de fondos en cuentas bancarias, es una fecha tentativa, dado que el monto de que se trate es debitado por una procesadora de pagos ajena a MINISO, que a su vez se lo entregará a la Institución Financiera correspondiente, a efecto de que dicho monto ser reflejado en el estado de cuenta del Usuario.\nEn tal virtud, el Usuario deslinda a MINISO de cualquier responsabilidad por cualquier circunstancia que retrase o impida la devolución de dinero, caso en el cual el Usuario tendrá la obligación de hacer el reclamo correspondiente ante su Institución Financiera.",
+            "blockClass": [
+                "terminos-condiciones-section-feature"
+            ]
+        }
+    },
+    "rich-text#terminos-condiciones-section-12": {
+        "props": {
+            "text": "## 11.- AVISO DE PRIVACIDAD.\nMINISO es responsable de la confidencialidad, uso y protección de los datos personales que le son proporcionados.\nLos datos de carácter personal proporcionados por los Usuarios son procesados y almacenados en servidores o medios magnéticos que mantienen altos estándares de seguridad y protección tanto física como tecnológica. Para más información consulte nuestro <a href='/aviso-de-privacidad'>Aviso de Privacidad</a>.",
+            "blockClass": [
+                "terminos-condiciones-section-feature"
+            ]
+        }
+    },
+    "rich-text#terminos-condiciones-section-13": {
+        "props": {
+            "text": "## 12.- PROPIEDAD INTELECTUAL\nMINISO es titular de los derechos de propiedad intelectual de todos los contenidos del Sitio (incluyendo programas, bases de datos, redes, imágenes, logos, escritos y archivos que permiten al Usuario acceder al Sitio), los cuales están protegidas por las Leyes y Tratados Internaciones en materia de derecho de autor, marcas, patentes, modelos y diseños industriales. El uso indebido y la reproducción total o parcial de dichos contenidos quedan prohibidos, salvo por autorización expresa y por escrito de MINISO.\nEl uso del Sitio no significa de ningún modo que MINISO ceda o constituya ningún tipo de derecho, licencia o permiso de derechos sobre sus derechos de propiedad intelectual.",
+            "blockClass": [
+                "terminos-condiciones-section-feature"
+            ]
+        }
+    },
+    "rich-text#terminos-condiciones-section-14": {
+        "props": {
+            "text": "## 13.- FALLAS EN EL SISTEMA\nMINISO no garantiza el acceso y uso continuado o ininterrumpido del Sitio. El Sitio puede eventualmente no estar disponible debido a dificultades técnicas o fallas de Internet, o por cualquier otra circunstancia ajena a MINISO y/o razonablemente fuera de su control. En tales casos se procurará restablecer el Sitio con la mayor celeridad posible, sin que por ello pueda imputársele algún tipo de responsabilidad.\nMINISO no será responsable por ningún error, omisión o imprecisión contenidos en el Sitio, ni por interpretaciones erróneas de su contenido llevadas a cabo por los Usuarios.\nMINISO no será responsable por ningún daño y/o perjuicio causados al Usuario derivado de a dificultades técnicas o fallas de Internet, o por cualquier otra circunstancia ajena a MINISO y/o razonablemente fuera de su control. MINISO tampoco será responsable por cualquier daño y/o perjuicio causados al Usuario derivado de virus y/o malware que pudiera afectar el equipo del Usuario como consecuencia del acceso y/o uso del Sitio o a raíz de cualquier transferencia de datos, archivos, imágenes, textos o audio contenidos en el mismo.",
+            "blockClass": [
+                "terminos-condiciones-section-feature"
+            ]
+        }
+    },
+    "rich-text#terminos-condiciones-section-15": {
+        "props": {
+            "text": "## 14.- MODIFICACIONES DE LOS TÉRMINOS Y CONDICIONES.\nMINISO podrá modificar en cualquier momento los presentes Términos y Condiciones. Dichas modificaciones serán publicadas en el Sitio. Estas modificaciones entrarán el mismo día en que fueron publicados en el Sitio, y es obligación de los Usuarios mantenerse al tanto de las modificaciones de los Términos y Condiciones.\nEn caso de que los Usuarios no estén de acuerdo con las modificaciones realizadas deberán solicitar la baja de su inscripción y/o abstenerse de utilizar el Sitio.",
+            "blockClass": [
+                "terminos-condiciones-section-feature"
+            ]
+        }
+    },
+    "rich-text#terminos-condiciones-section-16": {
+        "props": {
+            "text": "## 15.- LEGISLACIÓN APLICABLE Y JURISDICCIÓN\nLas presentes Términos y Condiciones estarán regidos en todos sus puntos por las leyes vigentes en los Estados Unidos Mexicanos.\nEn caso de controversia respecto de la interpretación, cumplimiento y ejecución de los presentes Términos y Condiciones y/o de las transacciones comerciales ejecutadas al amparo de los mismos, las partes convienen expresamente en someterse a la jurisdicción de los Tribunales competentes de la Ciudad de México, renunciando en consecuencia a cualquier otro fuero que, en razón de su domicilio presente o futuro, pudiera corresponderles.\nLa Procuraduría Federal del Consumidor es la autoridad administrativa competente para conocer de los asuntos relacionados con los presentes Términos y Condiciones, resultando aplicable la Ley Federal de Protección al Consumidor.",
+            "blockClass": [
+                "terminos-condiciones-section-feature"
+            ]
+        }
+    },
+    "rich-text#terminos-condiciones-section-17": {
+        "props": {
+            "text": "## 16.- DOMICILIO\nPara efectos de los presentes Términos y Condiciones, se señala como domicilio de MINISO el ubicado en Boulevard Manuel Ávila Camacho 118, Piso 2, Colonia Lomas De Chapultepec V Sección, Alcaldía Miguel Hidalgo, C.P. 11000, Ciudad de México.",
+            "blockClass": [
+                "terminos-condiciones-section-feature"
+            ]
+        }
+    },
+    "rich-text#terminos-condiciones-section-18": {
+        "props": {
+            "text": "## 17.- CONTACTO\nEn caso de cualquier comentario, duda, reclamación o aclaración relacionados con los presentes Términos y Condiciones y/o con las transacciones comerciales realizadas en el Sitio, el Usuario podrá contactar a MINISO mediante el correo electrónico tiendaenlinea@miniso.com.mx, en días hábiles y dentro de un horario de las 9: 00 horas a las 18: 00 horas.",
+            "blockClass": [
+                "terminos-condiciones-section-feature"
+            ]
+        }
+    }
+}

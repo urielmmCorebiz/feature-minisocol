@@ -1,0 +1,135 @@
+{
+  "store.custom#aviso-de-privacidad": {
+    "blocks": [
+      "flex-layout.row#aviso-de-privacidad"
+    ]
+  },
+  "flex-layout.row#aviso-de-privacidad": {
+    "children": [
+      "flex-layout.col#text-aviso-de-privacidad"
+    ],
+    "props": {
+      "blockClass": [
+        "page-institucionales",
+        "aviso-de-privacidad"
+      ]
+    }
+  },
+  "flex-layout.col#text-aviso-de-privacidad": {
+    "children": [
+      "rich-text#title-aviso-de-privacidad",
+      "rich-text#aviso-de-privacidad-section-1",
+      "rich-text#aviso-de-privacidad-section-2",
+      "rich-text#aviso-de-privacidad-section-3",
+      "rich-text#aviso-de-privacidad-section-4",
+      "rich-text#aviso-de-privacidad-section-5",
+      "rich-text#aviso-de-privacidad-section-6",
+      "rich-text#aviso-de-privacidad-section-7",
+      "rich-text#aviso-de-privacidad-section-8",
+      "rich-text#aviso-de-privacidad-section-9",
+      "rich-text#aviso-de-privacidad-section-10",
+      "rich-text#aviso-de-privacidad-section-11"
+    ],
+    "props": {
+      "blockclass": [
+        "page-institucionales",
+        "aviso-de-privacidad"
+      ],
+      "preventVerticalStretch": true
+    }
+  },
+  "rich-text#title-aviso-de-privacidad": {
+    "props": {
+      "text": "# AVISO DE PRIVACIDAD",
+      "blockClass": ""
+    }
+  },
+  "rich-text#aviso-de-privacidad-section-1": {
+    "props": {
+      "text": "El presente Aviso es dirigido a todos los usuarios titulares de datos personales que obren en posesión de **MINISO MÉXICO, S.A.P.I. de C.V.** en cumplimiento a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, su Reglamento y demás ordenamientos legales aplicables.",
+      "blockClass": [
+        "aviso-de-privacidad-section-feature"
+      ]
+    }
+  },
+  "rich-text#aviso-de-privacidad-section-2": {
+    "props": {
+      "text": "##### Identidad y domicilio del responsable que trata los datos personales. \n**MINISO MÉXICO, S.A.P.I. de C.V.**  (en lo sucesivo **MINISO**), es una sociedad constituida conforme a las leyes de los Estados Unidos Mexicanos, con domicilio ubicado en: **Boulevard Manuel Ávila Camacho 118, Piso 2, Colonia Lomas de Chapultepec V Sección, Alcaldía Miguel Hidalgo, C.P. 11000, Ciudad de México**. El presente Aviso de Privacidad tiene por objeto la protección de los datos personales de los usuarios del sitio web de internet www.miniso.com.mx; por lo que **MINISO** protege y salvaguarda sus datos personales para evitar daño, pérdida, destrucción, robo, extravío o alteración, así como el tratamiento no autorizado de los mismos.",
+      "blockClass": [
+        "aviso-de-privacidad-section-feature"
+      ]
+    }
+  },
+  "rich-text#aviso-de-privacidad-section-3": {
+    "props": {
+      "text": "##### Las finalidades del tratamiento.\nLos datos personales que recabaremos de su parte serán utilizados para las siguientes finalidades necesarias:\n * La comercialización de nuestros bienes y/o productos.\n\n * El procesamiento de la compra de nuestros bienes y/o productos.\n * El procesamiento del pago de nuestros bienes y/o productos.\n * El cumplimiento de las obligaciones derivadas de la comercialización de nuestros bienes y/o productos.\n *Entregarle, en la tienda y/o en el domicilio indicado, los bienes y/o productos adquiridos.\n * La devolución y/o cambio de los bienes y/o productos adquiridos.\n * La aplicación de la garantía respecto de los bienes y/o productos adquiridos.\n * La emisión de facturas y/o recibos.\n * Su incorporación en nuestra base de datos de clientes.\n * Informarle y/o contactarle por cualquier medio óptico, sonoro o tecnológico (WhatsApp, SMS, telefónico, correo electrónico, entre otros), respecto del estatus de sus compras y/o entrega de sus bienes y/o productos\n * Informarle y/o contactarle por cualquier medio óptico, sonoro o tecnológico (WhatsApp, SMS, telefónico, correo electrónico, entre otros), respecto del envío y/o fecha de entrega estimada del bien y/o producto adquirido.\n * Su participación en programas de beneficios y lealtad.\n * Entregarle, en la tienda y/o en el domicilio indicado, los premios de lealtad.\n * Realizar la actualización de sus datos personales.\n * Identificar sus gustos, hábitos, preferencias e historial de compras para ofrecerle los bienes y/o productos que se adecuan a sus necesidades.\n * Dar atención a sus peticiones, consultas, quejas, solicitudes, reclamaciones y sugerencias, respecto de las relaciones contractuales, comerciales, patrimoniales y financieras que tenga con **MINISO**.\n * Dar atención a los procedimientos judiciales y administrativos, tramitados ante las autoridades Federales, Estatales, Municipales y de la Ciudad de México, en los que ambos seamos parte.\n * Enviar avisos sobre los cambios que pueda llegar a sufrir el presente Aviso de Privacidad.\n\nIgualmente, los datos personales que recabaremos de su parte serán utilizados para las siguientes finalidades no necesarias:\n *  Desarrollar y administrar nuestros bienes y/o productos.\n\n * Proporcionarle publicidad, propaganda, avisos y notificaciones sobre nuestros bienes y/o productos, en la medida que lo permita la ley aplicable.\n * Evaluación de la calidad del servicio o de los bienes y/o productos que comercializamos.\n * Estudios de mercado.\n * Informarle sobre promociones y publicidad.\n\nEn caso de que usted desee limitar el uso o divulgación de sus datos personales para las finalidades descritas como no necesarias, envíe en el momento en el que lo considere conveniente un correo electrónico a la dirección: avisodeprivacidad@miniso.com.mx, pidiendo que sus datos personales no sean usados para las finalidades descritas como no necesarias en el presente Aviso de Privacidad.",
+      "blockClass": [
+        "aviso-de-privacidad-section-feature"
+      ]
+    }
+  },
+  "rich-text#aviso-de-privacidad-section-4": {
+    "props": {
+      "text": "##### Datos personales que serán sometidos a tratamiento.\nPara los efectos del presente Aviso de Privacidad, que nos permitan llevar a cabo las finalidades antes descritas, le informamos que sus datos personales que serán sometidos a tratamiento corresponden a datos personales de identificación, contacto, comerciales, patrimoniales y financieros, tales como: nombre, domicilio, número telefónico, correo electrónico, datos de tarjetas bancarias, números de cuentas, números de CLABE Interbancaria, Registro Federal de Contribuyentes, datos de facturación.",
+      "blockClass": [
+        "aviso-de-privacidad-section-feature"
+      ]
+    }
+  },
+  "rich-text#aviso-de-privacidad-section-5": {
+    "props": {
+      "text": "##### Datos personales sensibles.\nLe informamos que, al no ser necesarios para llevar a cabo las finalidades de tratamiento que más adelante se señalan, ninguno de sus datos personales sensibles será tratado por **MINISO**.",
+      "blockClass": [
+        "aviso-de-privacidad-section-feature"
+      ]
+    }
+  },
+  "rich-text#aviso-de-privacidad-section-6": {
+    "props": {
+      "text": "##### Las opciones y medios que se ofrecen para limitar el uso o divulgación de sus datos.\n\nLe informamos que **MINISO** implementa medidas de seguridad, técnicas, administrativas y físicas necesarias para proteger sus datos personales con la finalidad de evitar el uso, daño, pérdida, alteración, destrucción, acceso o tratamiento no autorizado.\n\nEn caso de que usted desee limitar el uso o divulgación de sus datos personales, envíe en el momento en el que lo considere conveniente un correo electrónico a la dirección: avisodeprivacidad@miniso.com.mx, solicitando que se le incluya en nuestro listado de exclusión internos de no contactar para fines promocionales y mercado.\n\nAsimismo, se le informa que usted podrá inscribirse en el Registro Público para Evitar Publicidad (REPEP) de la Procuraduría Federal del Consumidor, el cual puede ser consultado en el siguiente link: https://repep.profeco.gob.mx/.",
+      "blockClass": [
+        "aviso-de-privacidad-section-feature"
+      ]
+    }
+  },
+  "rich-text#aviso-de-privacidad-section-7": {
+    "props": {
+      "text": "##### Medios para ejercer los derechos de acceso, rectificación, cancelación u oposición, de conformidad con lo dispuesto en la Ley.\nLos titulares de los datos personales que tenemos en nuestro poder podrán ejercer los derechos de Acceso, Rectificación, Cancelación y Oposición (Derechos ARCO) que les confiere la Ley Federal de Protección de Datos Personales en Posesión de Particulares, enviando su solicitud a través del correo electrónico avisodeprivacidad@miniso.com.mx, Todas las solicitudes deberán cumplir con los siguientes requisitos:\n * Incluir el nombre y domicilio, así como el correo electrónico para comunicarle la respuesta a su solicitud.\n\n * Acompañar una identificación oficial que acredite la identidad del titular.\n * Incluir una descripción clara y precisa de los datos personales respecto de los cuales ejercitará los derechos que les confiere la Ley.\n * Adjuntar cualquier elemento o documento que facilite la localización de los datos personales de que se trate.\n\nLa respuesta será entregada al titular vía correo electrónico, dentro de un plazo no mayor a veinte días hábiles, contados a partir del día siguiente a la recepción de la solicitud, a efecto de que, si resulta procedente, se haga efectiva la misma dentro de los quince días hábiles siguientes a la fecha en que el titular reciba la respuesta. En caso de que el titular no reciba la respuesta en el plazo señalado, se debe entender que su solicitud ha sido resuelta en sentido negativo.\n\nEn caso de que el titular haya ejercido su derecho de acceso y la respuesta a su solicitud haya sido en sentido positivo, los datos personales solicitados le serán entregados vía correo electrónico, para lo cual recibirá un archivo en formato PDF con los datos personales de que se trate. ",
+      "blockClass": [
+        "aviso-de-privacidad-section-feature"
+      ]
+    }
+  },
+  "rich-text#aviso-de-privacidad-section-8": {
+    "props": {
+      "text": "##### Transferencias de datos personales.\nSu privacidad, seguridad y confianza es muy importante para **MINISO**, por ello hacemos de su conocimiento que sus datos personales que obran en nuestro poder, así como cualquier otra información que actualmente o en el futuro obren en nuestras bases de datos, será tratada por **MINISO** y por aquellos terceros nacionales o extranjeros que, por su relación contractual, comercial o de negocios con nuestra empresa, tengan la necesidad de tratar igualmente sus datos personales para algunas de las finalidades necesarias establecidas en este Aviso de Privacidad, en términos de lo estipulado en los artículos 36 y 37 de la Ley Federal de Datos Personales en Posesión de los Particulares y 68, 71 y 74 del Reglamento de la Ley Federal de Datos Personales en Posesión de los Particulares.\n\nEn caso de que usted no desee que sus datos personales sean transferidos a terceros, envíe en el momento en el que lo considere conveniente un correo electrónico a la dirección: avisodeprivacidad@miniso.com.mx. En caso de que no manifieste ninguna oposición dentro de los cinco (5) días hábiles siguientes a que conozca el presente Aviso de Privacidad, se entenderá que expresamente autoriza a **MINISO** a transferir de sus datos personales.\n\nIgualmente, le informamos que podemos vernos obligados a compartir sus datos personales con la autoridad judicial o administrativa, ya sea Federal, Estatal o Municipal, cuando así nos sea requerido por cualquiera de ellas en el debido ejercicio de sus funciones.\n\nFinalmente, le informamos que en caso de que **MINISO** se fusione, se divida, cambie de empresa controladora o de cualquier manera vea afectada su estructura corporativa, sus datos personales serán transmitidos a la empresa o las empresas que correspondan.",
+      "blockClass": [
+        "aviso-de-privacidad-section-feature"
+      ]
+    }
+  },
+  "rich-text#aviso-de-privacidad-section-9": {
+    "props": {
+      "text": "##### Comunicación de los cambios al Aviso de Privacidad.\nEn caso de que **MINISO** realice alguna modificación al presente Aviso de Privacidad, esto se dará a conocer a través de nuestro sitio web www.miniso.com.mx.\n\n**MINISO** se reserva el derecho de actualizar de forma periódica el presente Aviso, y que en cuyo caso se hará de su conocimiento a través del medio arriba descrito.",
+      "blockClass": [
+        "aviso-de-privacidad-section-feature"
+      ]
+    }
+  },
+  "rich-text#aviso-de-privacidad-section-10": {
+    "props": {
+      "text": "##### Uso de tecnologías de rastreo.\nLe informamos que en nuestra página de internet empleamos cookies, web beacons y otras tecnologías de rastreo y seguimiento para monitorear su comportamiento como usuario de Internet, ello con la finalidad de proporcionarles un mejor servicio, presentar publicidad y ofertas adecuadas a sus intereses, personalizar su experiencia en nuestra página de Internet, así como poder ofrecerle nuevos productos basados en sus preferencias.\n\nLos datos personales que obtenemos con estas tecnologías de rastreo consisten en: hábitos de navegación en Internet, horario y tiempo de navegación en nuestra página de Internet, secciones consultadas y páginas de Internet que han sido accedidas previamente a la nuestra.\n\nAsimismo, los datos personales obtenidos a través del uso de tecnologías de rastreo pueden ser transferidos a terceros que, por su relación contractual, comercial o de negocios con nuestra empresa, tengan la necesidad de tratar igualmente sus datos personales, en términos del numeral VII. del presente Aviso de Privacidad.\n\nFinalmente, respeto a este punto, le informamos que estas tecnologías de rastreo pueden ser deshabilitadas por usted en la configuración de su navegador.",
+      "blockClass": [
+        "aviso-de-privacidad-section-feature"
+      ]
+    }
+  },
+  "rich-text#aviso-de-privacidad-section-11": {
+    "props": {
+      "text": "##### Revocación del consentimiento.\nLe informamos que en caso de que usted desee revocar el consentimiento que nos ha otorgado para el tratamiento de sus datos personales, podrá hacerlo en cualquier momento, para lo cual deberá enviar un correo electrónico a la dirección: avisodeprivacidad@miniso.com.mx,  de conformidad con lo establecido en el artículo 8 de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares y 21 del Reglamento de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.\n\nEn dicho correo electrónico deberá incluir la siguiente información:\n * Nombre, domicilio y correo electrónico para comunicarle la respuesta a su solicitud.\n\n * Acompañar una identificación oficial que acredite la identidad del titular.\n * Adjuntar cualquier elemento o documento que facilite la localización de sus datos personales.\n\nLa respuesta correspondiente le será entregada al titular vía correo electrónico, dentro de un plazo no mayor a veinte días hábiles, contados a partir del día siguiente a la recepción de la solicitud de revocación.\n\nEl presente Aviso de Privacidad se rige estrictamente por la Ley Federal de Datos Personales en Posesión de los Particulares, su reglamento y demás ordenamientos legales aplicables; por lo que a la aceptación de este Aviso, en caso de cualquier controversia o reclamación derivada de éste, se someterá a los Tribunales de la Ciudad de México.\n\n**Consiento y autorizo a MINISO MÉXICO, S.A.P.I. de C.V., que mis datos personales sean tratados conforme a lo previsto en el presente Aviso de Privacidad.**\n\nFecha de última actualización de este Aviso de Privacidad: 13 de mayo de 2020.",
+      "blockClass": [
+        "aviso-de-privacidad-section-feature"
+      ]
+    }
+  }
+}

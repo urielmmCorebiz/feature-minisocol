@@ -1,0 +1,149 @@
+{
+    "store.custom#faq": {
+        "blocks": [
+            "flex-layout.row#faq"
+        ]
+    },
+    "flex-layout.row#faq": {
+        "children": [
+            "flex-layout.col#text-faq"
+        ],
+        "props": {
+            "blockClass": [
+                "page-institucionales",
+                "faq"
+            ]
+        }
+    },
+    "flex-layout.col#text-faq": {
+        "children": [
+            "rich-text#title-faq",
+            "rich-text#faq-section-1",
+            "rich-text#faq-section-2",
+            "rich-text#faq-section-3",
+            "rich-text#faq-section-4",
+            "rich-text#faq-section-5",
+            "rich-text#faq-section-6",
+            "rich-text#faq-section-7",
+            "rich-text#faq-section-8",
+            "rich-text#faq-section-9",
+            "rich-text#faq-section-10",
+            "rich-text#whatsapp-faq",
+            "image#whatsapp-faq"
+        ],
+        "props": {
+            "blockclass": [
+                "page-institucionales",
+                "faq"
+            ],
+            "preventVerticalStretch": true
+        }
+    },
+    "rich-text#title-faq": {
+        "props": {
+            "text": "# FAQs",
+            "blockClass": ""
+        }
+    },
+    "rich-text#faq-section-1": {
+        "props": {
+            "text": "##### ¿Cómo comprar?\nR: Comprar es muy fácil. Estos son los pasos que tienes que seguir:\n1. Busca lo que quieras, puedes usar nuestras categorías o el buscador\n\n2. Agrega a tu carrito los productos que quieras dando click al botón “A mi bolsa”\n3. Una vez que hayas escogido todo lo que te gusta, ve a tu carrito y da click en “Comprar”\n4. Revisa que los productos que agregaste están correctos y da click en “Finalizar Compra”\n5. Si eres nuevo, llena la información de contacto y tu información de entrega\n6. Selecciona el método de pago que más te convenga\n7. Llena la información de tu método de pago y da click en “Comprar ahora”\n8. ¡Listo! Podrás ver la información de tu pedido en la sección de “Mis Pedidos”",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-2": {
+        "props": {
+            "text": "##### ¿Los pagos son Seguros?\nR: Hemos Invertido en los sistemas de protección más avanzados para tu compra, es por ello que mantenemos las transacciones altamente protegidas de principio a fin. Utilizamos la plataforma de Mercado Pago, encriptamos los datos en forma segura (TLS) y así cumplimos con los más altos estándares de seguridad online.\nPCI-DSS monitorea y certifica lo que hacemos.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-3": {
+        "props": {
+            "text": "##### ¿Cuáles son los Métodos de Pago?\nR: Tarjeta de débito y crédito\nAl momento de pagar ingresas los datos de tu tarjeta de débito o tu tarjeta crédito y listo.\n\n**En efectivo con transferencia o depósito bancarioio**\n\nAl momento de pagar te daremos todos los datos para que puedas transferir o depositar dinero *en nuestras cuentas bancarias de Bancomer, Banamex o Santander*.\n * Pagas y se acredita en ¡menos de 1 hora!\n\n * Si pagas durante el fin de semana o feriado, se acreditará al siguiente día hábil.\n * Sin costo adicional.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-4": {
+        "props": {
+            "text": "##### ¿Dónde puedes pagar?\nEn cualquier sucursal bancaria del país.\nY también puedes:\n * Pagar los depósitos Bancomer en tiendas de 7-Eleven.\n\n * Pagar los depósitos Banamex en tiendas de Telecomm-Telégrafos.\n\n**En efectivo con un ticket Oxxo**\n\nAl momento de pagar te daremos un ticket. Podrás imprimirlo y pagarlo en cualquier tienda Oxxo del país.\n * Pagas y se acredita de 1 a 2 días hábiles.\n\n * Sin costo adicional.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-5": {
+        "props": {
+            "text": "##### ¿Hay pago contra entrega?\nR: Por el momento no existe esa modalidad, sin embargo, puedes hacer tus pagos en cualquier tienda Oxxo seleccionando la forma de pago “Pago en efectivo”",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-6": {
+        "props": {
+            "text": "##### ¿No me llega el código para entrar a mi cuenta?\nR: El código en algunos casos puede tardar hasta 3 minutos para llegar a tu correo, en caso contrario revisa tu bandeja de correos no deseados o vuelve a introducir tu correo para generar un nuevo código.\nRecuerda que este código tiene vigencia, por lo cual si te marca error al ingresarlo vuelve a introducir tu correo para generar un nuevo código.\n\n**Ya hice mi pedido y aún no recibo correo de confirmación**\n\nR: El correo de confirmación se envía inmediatamente después de completar tu compra, por favor ayúdanos a revisar en la bandeja de correos no deseados.\n##### ¿Cuánto tardan en procesar las órdenes/ En cuánto tiempo va a llegar mi pedido?\nR: Tenemos un tiempo estimado de entrega de 3 a 5 días hábiles\n##### ¿Cómo se si pasó mi pago?\nR: Recibirás una confirmación en tu correo electrónico registrado y en la sección de “Pedidos” de “Mi cuenta”\n##### ¿Cuál es el costo de envío?\nR: El costo de envío varía de acuerdo con los productos y la dirección de entrega",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-7": {
+        "props": {
+            "text": "##### ¿Cómo se dónde está mi envío?\nR: Desde Mi Cuenta - Pedidos podrás ver el estatus de tu pedido\n##### Ya pasó la fecha estimada de llegada ¿cuándo va a llegar mi pedido?\nR: Actualmente estamos viviendo una situación mundial complicada, por lo cual algunos pedidos podrían verse afectados con retrasos\n##### ¿Las entregas son en todas las localidades de la República Mexicana?\nR: Si, entregamos a toda la República Mexicana\n##### ¿Qué paqueterías utilizan?\nR: Todos nuestros envíos son hechos por medio de DHL\n##### ¿Mis datos personales están protegidos?\nR: ¡Claro! Si tienes alguna duda sobre el manejo de tus datos manda un correo a: avisodeprivacidad@miniso.com.mx donde con gusto te atenderemos",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-8": {
+        "props": {
+            "text": "##### ¿Cuándo resurtirán producto en mi tienda favorita?\nR: Sr. Miniso está trabajando constantemente para resurtir todas nuestras tiendas y que así puedas disfrutar de tu siguiente visita, con la mejor experiencia.\n##### ¿Qué hago si desconozco cómo funciona un producto?\nR: Te invitamos a que acudas a tienda para que un promotor de experiencia te pueda apoyar con toda la información de uso y te brinden una solución inmediata o te invitamos a ponerte en contacto con nosotros vía telefónica al 800 1 MINISO de lunes a viernes en un horario de 10am a 8pm, te comunicaremos directamente con un promotor de experiencia en tienda.\n##### Necesito cambiar un producto que acabo de adquirir ¿Qué debo hacer?\nR: Envía un correo electrónico a tiendaenlinea@miniso.com.mx con tu nombre completo, teléfono de contacto, motivo de cambio y una foto legible de tu ticket de compra y captura de pantalla de tu confirmación de orden.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-9": {
+        "props": {
+            "text": "##### El producto que adquirí no funciona ¿Cómo hago valida mi garantía?\nR: MINISO ofrece una garantía únicamente por lo que hace a los productos eléctricos, electrónicos y electrodomésticos que comercializa.\nEn el supuesto de que el (los) producto(s), que adquirió el Usuario no tenga(n) un adecuado funcionamiento o tenga(n) defectos cuyo origen sean imputables al fabricante, y se encuentre(n) dentro del plazo de noventa (90) días podrá hacer valida la garantía de los mismos, (exceptuando los productos electrodomésticos, los cuales cuentan con un plazo de garantía de un (1) año), contado a partir de la entrega del (de los) producto(s), el Usuario deberá enviar un correo electrónico a la dirección tiendaenlinea@miniso.com.mx, a efecto de solicitar que se haga efectiva la garantía, en donde se deberá señalar\n * Número de orden de compra.\n\n * Fecha de compra.\n * Cuál es el motivo por el cual se está solicitando la garantía (falla en específico).\n * Comprobar mediante videos, fotos o demás similares la falla del producto.\n * Correo electrónico con el cual accedió al Sitio.\n\nUna vez recibido el correo electrónico por el personal de MINISO, éste le dará seguimiento a la petición realizada, y en caso de ser procedente su solicitud, le dará al Usuario las instrucciones a seguir para poder hacer efectiva la garantía.\nEn caso de no cumplir con los pasos y requisitos previamente señalados, dentro de los plazos estipulados, MINISO no hará efectiva la garantía.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-10": {
+        "props": {
+            "text": "##### ¿Cómo puedo facturar mi compra?\nR: Es importante que ingreses a nuestro portal de <a href='http://facturacion.miniso.com.mx:8384/' target='_blank'>Facturación</a> y que tengas a la mano tu ticket de compra; donde podrás corroborar los datos necesarios para facturar (Folio de ticket, Código de Sucursal, Monto) validaras los datos y posteriormente podrás ingresar tus datos fiscales para obtener tu factura.\nSi presentas alguna duda o inconveniente envíanos un correo electrónico a tiendaenlinea@miniso.com.mx donde con gusto te apoyaremos.\n##### No he recibido mi factura ¿Cómo puedo obtenerla?\nR: Si ya facturaste en tienda o en nuestro portal y aún no la has recibido. Te sugerimos ingresar a nuestro apartado de <a href='http://facturacion.miniso.com.mx:8384/' target='_blank'>Facturación</a> ingresa los datos de tu ticket (Folio de ticket, Código de Sucursal, Monto) donde encontraras las opciones para descargarla en formato PDF y/o XML.\nSi presentas alguna duda o inconveniente envíanos un correo electrónico a tiendaenlinea@miniso.com.mx donde con gusto te apoyaremos.\n##### ¿Dónde puedo realizar una aclaración de mi compra?\nR: Contáctate con nosotros al teléfono 800 1 MINISO de lunes a viernes en un horario de 10am a 8pm o bien envía un correo electrónico a tiendaenlinea@miniso.com.mx donde con gusto te apoyaremos.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#whatsapp-faq": {
+        "props": {
+            "text": "Si necesitas más ayuda, escríbenos a nuestro WhatsApp, \nda Click para comenzar la conversación",
+            "blockClass": [
+                "faq-section-feature",
+                "whatsapp-faq"
+            ]
+        }
+    },
+    "image#whatsapp-faq": {
+        "props": {
+            "src": "https://minisomx.vteximg.com.br/arquivos/whatsapp-pdp.png",
+            "blockClass": "whatsapp-faq",
+            "maxWidth": "80px",
+            "maxHeight": "auto",
+            "link": {
+                "url": "https://api.whatsapp.com/send?phone=5215580971863&text=Konnichiwa,%20mi%20nombre%20es",
+                "openNewTab": "true"
+            }
+        }
+    }
+}
