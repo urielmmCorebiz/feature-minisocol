@@ -24,7 +24,8 @@
   "flex-layout.row#tiendas-row1-yuc": {
     "children": [
       "rich-text#tiendas-tienda1-yuc",
-      "rich-text#tiendas-tienda2-yuc"
+      "rich-text#tiendas-tienda2-yuc",
+      "rich-text#tiendas-tienda3-yuc"
     ],
     "props": {
       "blockClass": "tiendas-row"
@@ -41,6 +42,13 @@
     "title": "tienda-2",
     "props": {
       "text": "<span></span>\n**Nombre de la tienda:** Miniso Centro Comercial Mallplaza Cartagena\n**Dirección:** Av. Pedro de Heredia, Carrera 13 \nLocal: 226",
+      "blockClass": "info-tienda"
+    }
+  },
+  "rich-text#tiendas-tienda3-yuc": {
+    "title": "tienda-2",
+    "props": {
+      "text": "<span></span>\n**Nombre de la tienda:** Miniso Casa Perdomo\n**Dirección:** Calle Estanco del Tabaco #35-16",
       "blockClass": "info-tienda"
     }
   }

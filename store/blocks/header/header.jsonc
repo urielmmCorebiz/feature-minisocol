@@ -36,7 +36,8 @@
   "notification.bar": {
     "props": {
       "content": "¡Recuerda! envíos a $29.00 en compras superiores a $249.00, ¡no lo dejes pasar!"
-    }
+    },
+    "title": "Topbar"
   },
   "flex-layout.row#4-desktop": {
     "props": {
@@ -140,6 +141,7 @@
       // "campus-selector",
       "flex-layout.col#spacer",
       "login",
+      "flex-layout.col#col-wishlist",
       "minicart.v2"
     ],
     "props": {
@@ -207,9 +209,9 @@
     "children": [
       "menu-item#menu-mobile-categorias",
       "menu-item#menu-item-01",
+      "menu-item#menu-item-losMasVendidos",
       "menu-item#menu-item-outlet",
       "drawer#categorias-licencias",
-      "menu-item#menu-item-04",
       "menu-item#menu-item-tiendas",
       "menu-item#menu-item-05"
       //"flex-layout.row#redirect-menu"
@@ -230,7 +232,7 @@
     "props": {
       "showIconProfile": true,
       "iconLabel": "Inicia Sesión o Registrate",
-      "termsAndConditions": "AL CREAR UNA CUENTA, ACEPTAS LOS TÉRMINOS Y CONDICIONES Y EL AVISO DE PRIVACIDAD DE MINISO, CONSÚLTALOS."
+      "termsAndConditions": ""
     }
   },
   "category-menu": {

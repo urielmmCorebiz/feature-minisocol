@@ -1,7 +1,7 @@
 {
   "vendor": "minisocol",
   "name": "store-theme",
-  "version": "0.12.0",
+  "version": "0.12.3",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
@@ -20,6 +20,7 @@
     "vtex.store": "2.x",
     "vtex.store-header": "2.x",
     "vtex.product-summary": "2.x",
+    "vtex.product-highlights": "2.x",
     "vtex.store-footer": "2.x",
     "vtex.store-components": "3.x",
     "vtex.styleguide": "9.x",
@@ -58,10 +59,10 @@
     "vtex.store-image": "0.x",
     "vtex.responsive-layout": "0.x",
     "vtex.category-menu": "2.x",
-    "vtex.wish-list": "0.x",
     "vtex.product-availability": "0.x",
     "vtex.condition-layout": "1.x",
-    "vtex.modal-layout": "0.x"
+    "vtex.modal-layout": "0.x",
+    "vtex.wish-list": "0.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }

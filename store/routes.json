@@ -2,6 +2,12 @@
   "store.custom#acerca-de": {
     "path": "/acerca-de"
   },
+  "store.custom#compras-un-click": {
+    "path": "/compras-un-click"
+  },
+  "store.wishlist": {
+    "path": "/wishlist"
+  },
   "store.custom#aviso-de-privacidad": {
     "path": "/aviso-de-privacidad"
   },

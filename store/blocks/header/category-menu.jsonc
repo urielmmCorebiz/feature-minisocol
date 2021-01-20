@@ -3,9 +3,9 @@
     "children": [
       "menu-item#menu-categorias",
       "menu-item#menu-item-01",
+      "menu-item#menu-item-losMasVendidos",
       "menu-item#menu-item-outlet",
       "menu-item#menu-item-licencias",
-      "menu-item#menu-item-04",
       "menu-item#menu-item-tiendas",
       "menu-item#menu-item-05"
     ],
@@ -26,6 +26,21 @@
         "text": "Lo Nuevo"
       },
       "blockClass": ["menu-title", "menu-title-item-01"]
+    }
+  },
+  "menu-item#menu-item-losMasVendidos": {
+    "props": {
+      "id": "menu-item-menu-losMasVendidos",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "loMasVendidos",
+        "href": "/138?map=productClusterIds",
+        "tagTitle": "Los Más Vendidos",
+        "text": "Los Más Vendidos"
+      },
+      "blockClass": ["menu-title", "menu-title-item-01", "menu-title-orden"]
     }
   },
   "menu-item#menu-item-outlet": {
@@ -50,7 +65,7 @@
       "highlight": true,
       "itemProps": {
         "tagTitle": "Licencias",
-        "text": "Licencias"
+        "text": "Colecciones"
       },
       "blockClass": ["menu-title", "menu-title-item-licencias"]
     },
@@ -71,6 +86,20 @@
       "blockClass": ["menu-title", "menu-title-item-marvel"]
     }
   },
+  "menu-item#adventure-time-02": {
+    "props": {
+      "id": "menu-item-menu-Marvel",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "href": "/adventure%20time?_q=Adventure%20time&map=ft",
+        "tagTitle": "Marvel",
+        "text": "Hora de Aventura"
+      },
+      "blockClass": ["menu-title", "menu-title-item-marvel"]
+    }
+  },
   "menu-item#we-bare-bears": {
     "props": {
       "id": "menu-item-menu-we-bare-bears",
@@ -80,21 +109,21 @@
       "itemProps": {
         "href": "/we%20bares%20bear?_q=we%20bare%20bear&map=ft&order=OrderByTopSaleDESC",
         "tagTitle": "We Bare Bears",
-        "text": "We Bare Bears"
+        "text": "Osos Escandolosos"
       },
       "blockClass": ["menu-title", "menu-title-item-we-bare-bears"]
     }
   },
-  "menu-item#adventure-time": {
+  "menu-item#plaza-sesamo": {
     "props": {
       "id": "menu-item-menu-adventure-time",
       "type": "custom",
       "iconId": null,
       "highlight": false,
       "itemProps": {
-        "href": "/adventure%20time?_q=adventure%20time&map=ft",
+        "href": "/155?map=productClusterIds",
         "tagTitle": "Adventure Time",
-        "text": "Adventure Time"
+        "text": "Plaza Sésamo"
       },
       "blockClass": ["menu-title", "menu-title-item-adventure-time"]
     }
@@ -149,7 +178,7 @@
       "iconId": null,
       "highlight": false,
       "itemProps": {
-        "href": "https://api.whatsapp.com/send?phone=5215580971868",
+        "href": "https://api.whatsapp.com/send?phone=573165748950",
         "tagTitle": "Contáctanos",
         "text": "Contáctanos"
       },

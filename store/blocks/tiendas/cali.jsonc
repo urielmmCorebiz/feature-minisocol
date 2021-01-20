@@ -9,7 +9,8 @@
   "flex-layout.col#tiendas-col-mor": {
     "children": [
       "rich-text#subtitle-tiendas-mor",
-      "flex-layout.row#tiendas-row1-mor"
+      "flex-layout.row#tiendas-row1-mor",
+      "flex-layout.row#tiendas-02-row1-mor"
     ],
     "props": {
       "blockclass": "tiendas-col-mor"
@@ -49,6 +50,19 @@
     "title": "tienda-2",
     "props": {
       "text": "<span></span>\n**Nombre de la tienda:** Miniso Unico Centro Comercial Outlet\n**Dirección:** Calle 52 # 03-29\n Local: 74",
+      "blockClass": "info-tienda"
+    }
+  },
+  "flex-layout.row#tiendas-02-row1-mor": {
+    "children": ["rich-text#tiendas-tienda4-mor"],
+    "props": {
+      "blockClass": "tiendas-row"
+    }
+  },
+  "rich-text#tiendas-tienda4-mor": {
+    "title": "tienda-2",
+    "props": {
+      "text": "<span></span>\n**Nombre de la tienda:** Miniso Centro Comercial Cosmocentro\n**Dirección:** Calle 5 #50 – 103 \n Local: 2-05",
       "blockClass": "info-tienda"
     }
   }

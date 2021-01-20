@@ -102,7 +102,7 @@
     "props": {
       "textAlignment": "CENTER",
       "textPosition": "CENTER",
-      "text": "Miniso.com utiliza cookies para que tengas la mejor experiencia de navegación. Si sigues navegando entendemos que aceptas nuestra politica de cookies",
+      "text": " De conformidad con la Legislación Colombiana sobre protección de datos personales, te informamos que este sitio web utiliza cookies para diversas finalidades. \n Si continúas navegando, consideramos que aceptas su uso. Puedes obtener más información [__*aquí*__](/aviso-de-privacidad) ",
       "blockClass": "footer-copyright"
     }
   },

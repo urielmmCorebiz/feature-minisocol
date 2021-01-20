@@ -448,6 +448,10 @@
     padding: 0 10px;
   }
 }
+.italic--footer-copyright {
+  color: #999 !important;
+  font-weight: 700;
+}
 
 // LANDING TIENDAS
 .paragraph--info-tienda {
@@ -578,6 +582,8 @@
 
 .paragraph--title-extra-shelf {
   margin-bottom: 0px;
+  font-weight: normal;
+  font-size: 26px !important;
 }
 
 .paragraph--title {
@@ -617,4 +623,16 @@
   margin-top: 20px;
   font-weight: bold !important;
   font-size: 14px !important;
+}
+@media screen and (max-width: 375px) {
+  .paragraph--titles-home,
+  .link--titles-home {
+    font-size: 38px !important;
+  }
+}
+@media screen and (max-width: 320px) {
+  .paragraph--titles-home,
+  .link--titles-home {
+    font-size: 30px !important;
+  }
 }

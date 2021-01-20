@@ -1,9 +1,19 @@
 .notificationBarContainer {
-  background: rgb(209,201,255);
-  background: linear-gradient(90deg, rgba(209,201,255,1) 0%, rgba(191,155,228,1) 50%, rgba(202,128,221,1) 100%);
+  background: rgb(209, 201, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(209, 201, 255, 1) 0%,
+    rgba(191, 155, 228, 1) 50%,
+    rgba(202, 128, 221, 1) 100%
+  );
   font-size: 12px;
   color: black;
   font-weight: 700;
+}
+
+:global(.vtex-product-highlights-2-x-productHighlightText--tresxdos) {
+  z-index: 99;
+  padding: 2px 4px;
 }
 
 .searchBarContainer {
@@ -43,7 +53,7 @@
     right: 0;
     top: 0;
     bottom: 0;
-    height:45px;
+    height: 45px;
     background: #f7c1bb;
     padding: 0 10px 0 15px;
   }
@@ -160,17 +170,17 @@
   }
 }
 
-@media screen and (max-width: 1024px){
-  .container--newsletter{
+@media screen and (max-width: 1024px) {
+  .container--newsletter {
     padding: 20px 15px;
   }
-  .form--newsletter{
+  .form--newsletter {
     padding: 20px 5vw;
   }
 }
 
-.inputGroup--newsletter{
-  display:flex;
+.inputGroup--newsletter {
+  display: flex;
 }
 
 .logoLink {
@@ -178,8 +188,8 @@
   min-width: 85px;
 }
 
-:global(.vtex-button){
-  outline:none!important;
+:global(.vtex-button) {
+  outline: none !important;
 }
 
 .sizeDesktop {
@@ -265,7 +275,7 @@
   margin-top: 10px;
 }
 
-.productImage{
+.productImage {
   border-radius: 10px;
   overflow: hidden;
 }
@@ -369,18 +379,18 @@
       color: rgba(30, 30, 36, 0.5);
       text-transform: uppercase;
 
-      @media screen and (max-width:768px){
+      @media screen and (max-width: 768px) {
         font-size: 1.1rem;
         line-height: initial;
       }
     }
-    .listPriceValue{
+    .listPriceValue {
       font-weight: normal;
       margin-bottom: 0;
       position: relative;
       top: -2px;
-      color: #999999!important;
-      text-decoration: line-through!important;
+      color: #999999 !important;
+      text-decoration: line-through !important;
     }
     .sellingPriceValue {
       font-size: 30px;
@@ -444,17 +454,17 @@
   }
 }
 
-:global(.vtex-reviews-and-ratings-1-x-summaryContainer){
+:global(.vtex-reviews-and-ratings-1-x-summaryContainer) {
   display: flex;
   align-items: center;
   justify-content: flex-end;
 }
 
-:global(.vtex-reviews-and-ratings-1-x-stars){
-  margin-right: .5rem;
+:global(.vtex-reviews-and-ratings-1-x-stars) {
+  margin-right: 0.5rem;
   display: block;
 
-  :global(.vtex-reviews-and-ratings-1-x-star){
+  :global(.vtex-reviews-and-ratings-1-x-star) {
     color: #000;
     font-size: 19px;
     position: relative;
@@ -471,14 +481,13 @@
 
   :global(.vtex-address-form__postalCode) {
     text-transform: uppercase;
-    letter-spacing: .85px;
+    letter-spacing: 0.85px;
 
-    @media screen and (max-width:540px){
+    @media screen and (max-width: 540px) {
       font-size: 9px;
-      
     }
 
-    :global(.vtex-input__label){
+    :global(.vtex-input__label) {
       font-size: 18px;
       font-weight: 700;
       font-stretch: normal;
@@ -490,10 +499,9 @@
       top: 0;
     }
 
-    :global(.vtex-address-form-4-x-input){
+    :global(.vtex-address-form-4-x-input) {
       height: inherit;
     }
-
   }
 
   :global(.vtex-input-prefix__group) {
@@ -517,19 +525,19 @@
     :global(.vtex-button__label) {
       cursor: pointer;
       font-size: 0;
-      @media screen and (max-width:640px){
+      @media screen and (max-width: 640px) {
         padding: 0px;
       }
       &::before {
         content: "Verificar";
         font-size: 15px;
         text-transform: uppercase;
-        letter-spacing: .8px;
+        letter-spacing: 0.8px;
         color: rgb(30, 30, 36);
 
-        @media screen and (max-width:640px){
+        @media screen and (max-width: 640px) {
           font-size: 11px;
-          letter-spacing: .4px;
+          letter-spacing: 0.4px;
         }
       }
     }
@@ -603,7 +611,7 @@
 :global(.vtex-reviews-and-ratings-1-x-container) {
   padding-bottom: 20px;
   //max-width: 1250px;
-  
+
   :global(.vtex-styleguide-9-x-jsFocusVisible) {
     :first-child {
       :first-child {
@@ -634,17 +642,16 @@
 }
 
 .productDescriptionContainer {
-
-  .showMoreButton{
+  .showMoreButton {
     padding: 10px 15px;
     border-radius: 5px;
     color: black;
     text-decoration: underline;
-    font-size: .8rem;
+    font-size: 0.8rem;
     background: transparent;
   }
 
-  @media screen and (max-width:540px){
+  @media screen and (max-width: 540px) {
     text-align: left;
   }
   .productDescriptionTitle {
@@ -725,8 +732,8 @@
         display: none;
       }
     }
-    &::nth-child(n-2){
-      display: none!important;
+    &::nth-child(n-2) {
+      display: none !important;
     }
     &:last-child {
       margin-top: 2px;
@@ -766,7 +773,7 @@
 .specificationsTableContainer {
   padding: 0;
   margin: 25px 0;
-  width: 100%!important;
+  width: 100% !important;
   .specificationsTitle {
     margin: 0;
     border-bottom: solid thin #e3e4e6;
@@ -784,19 +791,19 @@
 
 :global(.vtex-toast-container) {
   :global(.vtex-toast) {
-    // :first-child {
-    //   :first-child {
-    //     :first-child {
-    //       font-size: 0;
-    //       &::before {
-    //         content: "Has añadido un articulo a tu bolsa";
-    //         font-size: 16px;
-    //         font-weight: 400;
-    //         font-family: "arial";
-    //       }
-    //     }
-    //   }
-    // }
+    :first-child {
+      :first-child {
+        :first-child {
+          font-size: 0;
+          &::before {
+            content: "Inicia sesión para poder agregar tus productos a la lista.";
+            font-size: 16px;
+            font-weight: 400;
+            font-family: "arial";
+          }
+        }
+      }
+    }
     :global(.vtex-alert__close-icon) {
       :first-child {
         color: #1e1e24;
@@ -804,45 +811,44 @@
     }
   }
 }
-
-.imageElement--image-benefit-pdp{
+.imageElement--image-benefit-pdp {
   margin-right: 1rem;
   width: 35px;
 }
 
-.specificationsTitle{
+.specificationsTitle {
   display: none;
 }
 
-.shareLabel{
+.shareLabel {
   display: none;
 }
 
-.pointerEventsAuto .showMoreButton :global(.vtex-button){
+.pointerEventsAuto .showMoreButton :global(.vtex-button) {
   border-radius: 5px;
-  padding: 10px 15px
+  padding: 10px 15px;
 }
 
-:global(.vtex-address-form__postalCode) :global(.vtex-input__label){
-  font-size: 0px!important;
+:global(.vtex-address-form__postalCode) :global(.vtex-input__label) {
+  font-size: 0px !important;
 
-  @media screen and (max-width:540px){
+  @media screen and (max-width: 540px) {
     text-align: left;
   }
 }
 
-:global(.vtex-address-form__postalCode) :global(.vtex-input__label)::before{
-  content:"Verificar disponibilidad y costo";
+:global(.vtex-address-form__postalCode) :global(.vtex-input__label)::before {
+  content: "Verificar disponibilidad y costo";
   font-size: 18px;
 }
 
-:global(.vtex-address-form__postalCode) :global(.vtex-input__label)::after{
-  content:"Nuestros productos ¡vuelan! Checa aqu\00ED  si est\00E1  disponible y cu\00E1 l es el costo de env\00ED o.";
+:global(.vtex-address-form__postalCode) :global(.vtex-input__label)::after {
+  content: "Nuestros productos ¡vuelan! Checa aqu\00ED  si est\00E1  disponible y cu\00E1 l es el costo de env\00ED o.";
   font-size: 14px;
   font-weight: normal;
-  display:block;
-  color: rgba(24,24,24,.5);
-  margin-top:10px;
+  display: block;
+  color: rgba(24, 24, 24, 0.5);
+  margin-top: 10px;
 }
 
 .shippingNoMessage {
@@ -855,7 +861,7 @@
   margin-bottom: 9px;
 }
 
-:global(.vtex-flex-layout-0-x-flexColChild--col-price-pdp) .priceContainer{
+:global(.vtex-flex-layout-0-x-flexColChild--col-price-pdp) .priceContainer {
   display: flex;
   flex-direction: row-reverse;
   justify-content: flex-end;
@@ -865,53 +871,53 @@
 .discountInsideContainer {
   border-radius: 5px;
   top: 10px;
-  right:initial;
-  left:10px;
+  right: initial;
+  left: 75%;
   background: #d22630;
-  font-size: .9rem;
+  font-size: 0.9rem;
   font-weight: normal;
 }
 
-:global(.vtex-product-summary-2-x-price_savings--price-summary){
-  display:none!important;
+:global(.vtex-product-summary-2-x-price_savings--price-summary) {
+  display: none !important;
 }
 
-.specificationItemProperty--specifications-b{
+.specificationItemProperty--specifications-b {
   display: none;
 }
-.specificationItemSpecifications--specifications-b{
-  border:0px;
+.specificationItemSpecifications--specifications-b {
+  border: 0px;
 }
 
-@media screen and (max-width:540px){
-  .shippingContainer{
-    :global(.vtex__icon-external-link){
+@media screen and (max-width: 540px) {
+  .shippingContainer {
+    :global(.vtex__icon-external-link) {
       display: none;
     }
   }
-  :global(.vtex-address-form__postalCode) :global(.vtex-input__label)::after{
-    margin-top:10px;
+  :global(.vtex-address-form__postalCode) :global(.vtex-input__label)::after {
+    margin-top: 10px;
     margin-bottom: 10px;
   }
 }
 
-.imageElement--image-benefit-pdp-03{
-  width:115px;
+.imageElement--image-benefit-pdp-03 {
+  width: 115px;
 }
 
-.imageElement--image-benefit-pdp-04{
-  width:115px;
+.imageElement--image-benefit-pdp-04 {
+  width: 115px;
 }
 
-:global(.vtex-flex-layout-0-x-flexCol--line-01-not-found){
-  .imageElement{
+:global(.vtex-flex-layout-0-x-flexCol--line-01-not-found) {
+  .imageElement {
     display: block;
     margin: 0 auto;
   }
 }
 
-.infoCardContainer--info-card-notfound{
-  width:calc( 100% - 30px)!important;
+.infoCardContainer--info-card-notfound {
+  width: calc(100% - 30px) !important;
   position: relative;
   left: 15px;
   top: -15px;
@@ -919,15 +925,15 @@
   margin-top: 9vh;
   margin-bottom: 9vh;
   background-color: #9fe7e9;
-  padding-left:15px;
+  padding-left: 15px;
 
-  .infoCardCallActionText--info-card-notfound{
+  .infoCardCallActionText--info-card-notfound {
     text-decoration: none;
     letter-spacing: 2px;
     display: flex;
     align-items: center;
   }
-  .infoCardCallActionText--info-card-notfound::after{
+  .infoCardCallActionText--info-card-notfound::after {
     content: "";
     display: inline-block;
     width: 40px;
@@ -937,76 +943,101 @@
     filter: brightness(0);
     margin-left: 5px;
   }
-  .infoCardHeadline--info-card-notfound{
+  .infoCardHeadline--info-card-notfound {
     font-size: 55px;
 
-    @media screen and (max-width:1024px){
+    @media screen and (max-width: 1024px) {
       font-size: 20px;
     }
   }
-  .infoCardSubhead--info-card-notfound{
+  .infoCardSubhead--info-card-notfound {
     font-size: 14px;
     max-width: 480px;
   }
 }
 
-.infoCardCallActionContainer{
+.infoCardCallActionContainer {
   text-decoration: none;
 }
 
-:global(.vtex-flex-layout-0-x-flexCol--col-warnings-pdp) .specificationItemSpecifications{
+:global(.vtex-flex-layout-0-x-flexCol--col-warnings-pdp)
+  .specificationItemSpecifications {
   display: none;
 }
 
-:global(.vtex-flex-layout-0-x-flexCol--col-warnings-pdp) .specificationsTableContainer{
+:global(.vtex-flex-layout-0-x-flexCol--col-warnings-pdp)
+  .specificationsTableContainer {
   margin: 0px;
   width: fit-content;
 }
 
-:global(.vtex-flex-layout-0-x-flexCol--col-warnings-pdp) .specificationsTable{
+:global(.vtex-flex-layout-0-x-flexCol--col-warnings-pdp) .specificationsTable {
   width: fit-content;
 }
 
-:global(.vtex-flex-layout-0-x-flexCol--col-warnings-pdp) .specificationItemProperty{
+:global(.vtex-flex-layout-0-x-flexCol--col-warnings-pdp)
+  .specificationItemProperty {
   background-color: #f7c1bb;
-    border-radius: 5px;
-    color: #000;
-    height: 25px;
-    padding: 0 15px;
-    font-size: 14px;
+  border-radius: 5px;
+  color: #000;
+  height: 25px;
+  padding: 0 15px;
+  font-size: 14px;
 }
 
-:global(.vtex-flex-layout-0-x-flexRowContent--deals) .imageElement{
+:global(.vtex-flex-layout-0-x-flexRowContent--deals) .imageElement {
   height: 30vh;
   width: auto;
   margin: auto;
 }
 
-@media screen and (max-width: 840px){
-  :global(.vtex-flex-layout-0-x-flexRowContent--deals) .imageElement{
+@media screen and (max-width: 840px) {
+  :global(.vtex-flex-layout-0-x-flexRowContent--deals) .imageElement {
     height: 100px;
   }
 }
 
-@media screen and (max-width: 640px){
-  .imageElement--season-promotion--card{
+@media screen and (max-width: 640px) {
+  .imageElement--season-promotion--card {
     width: 95%;
   }
 }
 
-.notificationContent{
+.notificationContent {
   font-size: 14px;
   text-decoration: none;
 }
 
-.notificationContent{
+.notificationContent {
   text-align: center;
 
-  @media (max-width:840px){
+  @media (max-width: 840px) {
     font-size: 11px;
   }
 }
 
-:global(.vtex-flex-layout-0-x-flexCol--btn-01) :global(.vtex-button){
+:global(.vtex-flex-layout-0-x-flexCol--btn-01) :global(.vtex-button) {
   background-color: transparent;
+}
+:global(.vtex-toast-container) {
+  :global(.vtex-toast) {
+    :last-child {
+      :last-child {
+        :last-child {
+          font-size: 16px;
+          &::before {
+            content: "";
+            font-size: 16px;
+            font-weight: 400;
+            font-family: "arial";
+          }
+        }
+      }
+    }
+    :global(.vtex-alert__close-icon) {
+      :first-child {
+        color: #1e1e24;
+      }
+    }
+  }
 }

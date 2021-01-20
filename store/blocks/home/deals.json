@@ -8,7 +8,8 @@
     "props": {
       "blockClass": "deals",
       "horizontalAlign": "center"
-    }
+    },
+    "title": "Seccion 5 Home"
   },
   "flex-layout.col#deal-01":{
     "children":[
@@ -28,7 +29,8 @@
     "props":{
       "text": "[PAGO SEGURO *GARANTIZADO*](/formas-de-pago)",
       "blockClass": "txt-deal"
-    }
+    },
+    "title": "Pago seguro"
   },
 
   "flex-layout.col#deal-02":{
@@ -44,15 +46,16 @@
     "props":{
       "src": "assets/deals/img-deal-02.png",
       "link":{
-        "url": "/faq"
+        "url": "/compras-un-click"
       }
     }
   },
   "rich-text#txt-deal-02":{
     "props":{
-      "text": "[COMPRAS EN *UN CLICK*](/faq)",
+      "text": "[COMPRAS EN *UN CLICK*](/compras-un-click)",
       "blockClass": "txt-deal"
-    }
+    },
+    "title": "Compras en un click"
   },
 
   "flex-layout.col#deal-03":{
@@ -71,8 +74,9 @@
   },
   "rich-text#txt-deal-03":{
     "props":{
-      "text": "[OPCIÓN DE ENVÍO *EXPRESS*](/opciones-de-entrega)",
+      "text": "[OPCIÓN DE ENVÍO *SEGURO*](/opciones-de-entrega)",
       "blockClass": "txt-deal"
-    }
+    },
+    "title": "Opción de envío seguro"
   }
 }

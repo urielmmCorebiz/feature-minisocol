@@ -22,7 +22,10 @@
     }
   },
   "flex-layout.row#tiendas-row1-sin": {
-    "children": ["rich-text#tiendas-tienda1-sin"],
+    "children": [
+      "rich-text#tiendas-tienda1-sin",
+      "rich-text#tiendas-tienda2-sin"
+    ],
     "props": {
       "blockClass": "tiendas-row"
     }
@@ -31,6 +34,13 @@
     "title": "tienda-1",
     "props": {
       "text": "<span></span>\n**Nombre de la tienda:** Miniso Mall Plaza Manizales Centro Comercial\n**Dirección:** Av. Kevin Ángel # 55D-251\n Local: A1017",
+      "blockClass": "info-tienda"
+    }
+  },
+  "rich-text#tiendas-tienda2-sin": {
+    "title": "tienda-1",
+    "props": {
+      "text": "<span></span>\n**Nombre de la tienda:** Miniso Centro Comercial Fundadores\n**Dirección:** Calle 33 B # 20 – 03 \n Local: 161",
       "blockClass": "info-tienda"
     }
   }

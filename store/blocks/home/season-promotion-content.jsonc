@@ -3,7 +3,8 @@
     "children": ["flex-layout.col#season-promotion--cards"],
     "props": {
       "blockClass": "season-promotion--cards"
-    }
+    },
+    "title": "Seccion 1 Home"
   },
   "flex-layout.col#season-promotion--cards": {
     "children": [
@@ -21,7 +22,8 @@
       "textPosition": "CENTER",
       "text": "Categorías",
       "blockClass": "titles-home"
-    }
+    },
+    "title": "Titulo Principal Home"
   },
   "rich-text#season-promotion--cards-2": {
     "props": {

@@ -9,23 +9,16 @@
  */
 {
   "store.orderplaced": {
-    "blocks": [
-      "order-placed"
-    ]
+    "blocks": ["order-placed"]
   },
   "store.account": {
-    "blocks": [
-      "my-account"
-    ],
+    "blocks": ["my-account"],
     "parent": {
       "challenge": "challenge.profile"
     }
   },
   "store.login": {
-    "blocks": [
-      "login",
-      "login-content#default"
-    ]
+    "blocks": ["login", "login-content#default"]
   },
   "login-content#default": {
     "props": {
@@ -36,6 +29,10 @@
   },
   "product-summary.shelf#home-shelf": {
     "children": [
+      "vtex.product-highlights@2.x:product-highlights#hightlight1",
+      "vtex.product-highlights@2.x:product-highlights#hightlight2",
+      "vtex.product-highlights@2.x:product-highlights#hightlight3",
+      "vtex.product-highlights@2.x:product-highlights#hightlight4",
       "add-to-list-btn",
       "stack-layout#prodsum",
       //"product-summary-brand",
@@ -47,6 +44,10 @@
   },
   "product-summary.shelf#default-shelf": {
     "children": [
+      "vtex.product-highlights@2.x:product-highlights#hightlight1",
+      "vtex.product-highlights@2.x:product-highlights#hightlight2",
+      "vtex.product-highlights@2.x:product-highlights#hightlight3",
+      "vtex.product-highlights@2.x:product-highlights#hightlight4",
       "add-to-list-btn",
       "stack-layout#prodsum",
       "product-summary-name",
@@ -55,22 +56,86 @@
       "add-to-cart-button#default-summary-add"
     ]
   },
-  "add-to-cart-button#home-summary-add":{
-    "props":{
-      "text": "A MI BOLSA",
+  "vtex.product-highlights@2.x:product-highlights#hightlight1": {
+    "props": {
+      "type": "collection",
+      "filter": {
+        "type": "show",
+        "highlightNames": ["3 x 24.900"]
+      }
+    },
+    "children": ["product-highlight-text#hight-text1"]
+  },
+  "product-highlight-text#hight-text1": {
+    "props": {
+      "message": "{highlightName}",
+      "blockClass": "tresxdos"
+    }
+  },
+  "vtex.product-highlights@2.x:product-highlights#hightlight2": {
+    "props": {
+      "type": "collection",
+      "filter": {
+        "type": "show",
+        "highlightNames": ["3 x 59.800"]
+      }
+    },
+    "children": ["product-highlight-text#hight-text2"]
+  },
+  "product-highlight-text#hight-text2": {
+    "props": {
+      "message": "{highlightName}",
+      "blockClass": "tresxdos"
+    }
+  },
+  "vtex.product-highlights@2.x:product-highlights#hightlight3": {
+    "props": {
+      "type": "collection",
+      "filter": {
+        "type": "show",
+        "highlightNames": ["3 x 49.800"]
+      }
+    },
+    "children": ["product-highlight-text#hight-text3"]
+  },
+  "product-highlight-text#hight-text3": {
+    "props": {
+      "message": "{highlightName}",
+      "blockClass": "tresxdos"
+    }
+  },
+  "vtex.product-highlights@2.x:product-highlights#hightlight4": {
+    "props": {
+      "type": "collection",
+      "filter": {
+        "type": "show",
+        "highlightNames": ["3 x 29.800"]
+      }
+    },
+    "children": ["product-highlight-text#hight-text4"]
+  },
+  "product-highlight-text#hight-text4": {
+    "props": {
+      "message": "{highlightName}",
+      "blockClass": "tresxdos"
+    }
+  },
+  "add-to-cart-button#home-summary-add": {
+    "props": {
+      "text": "AGREGAR A LA BOLSA",
       "unavailableText": "NO DISPONIBLE"
     }
   },
-  "add-to-cart-button#home-summary-buy-one-click":{
-    "props":{
+  "add-to-cart-button#home-summary-buy-one-click": {
+    "props": {
       "text": "COMPRAR AHORA",
       "isOneClickBuy": true,
       "unavailableText": "NO DISPONIBLE",
       "customOneClickBuyLink": "/checkout/#/cart"
     }
   },
-  "add-to-cart-button#default-summary-add":{
-    "props":{
+  "add-to-cart-button#default-summary-add": {
+    "props": {
       "isOneClickBuy": false,
       "text": "A MI BOLSA",
       "unavailableText": "NO DISPONIBLE"
@@ -84,30 +149,30 @@
       "customOneClickBuyLink": "/checkout/#/cart"
     }
   },
-  "flex-layout.row#row-btns-shelf":{
-    "children":[
+  "flex-layout.row#row-btns-shelf": {
+    "children": [
       //"product-summary-buy-button",
       "flex-layout.col#btn-01",
       "add-to-cart-button#home-summary-add"
     ],
-    "props":{
+    "props": {
       "blockClass": "row-btns-shelf",
       "colGap": "2"
     }
   },
-  "flex-layout.col#btn-01":{
-    "children":["add-to-cart-button#home-summary-buy-one-click"],
-    "props":{
+  "flex-layout.col#btn-01": {
+    "children": ["add-to-cart-button#home-summary-buy-one-click"],
+    "props": {
       "blockClass": "btn-01"
     }
   },
-  "product-summary-price":{
-    "props":{
+  "product-summary-price": {
+    "props": {
       "showSavings": false,
       "showListPrice": true,
       "showLabels": false,
       "showInstallments": false,
-      "blockClass":"price-summary"
+      "blockClass": "price-summary"
     }
   },
   "product-price": {
@@ -147,13 +212,11 @@
     }
   },
   "store.product-review-form": {
-    "blocks": [
-      "product-review-form"
-    ]
+    "blocks": ["product-review-form"]
   },
   "store.not-found#product": {
     "blocks": [
-      //"rich-text#not-found" 
+      //"rich-text#not-found"
       "flex-layout.row#searchbread",
       "flex-layout.row#line-01-not-found",
       "flex-layout.row#line-02-not-found",
