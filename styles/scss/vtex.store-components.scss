@@ -14,6 +14,9 @@
 :global(.vtex-product-highlights-2-x-productHighlightText--tresxdos) {
   z-index: 99;
   padding: 2px 4px;
+  display: none !important;
+  background-color: transparent !important;
+  color: transparent !important;
 }
 
 .searchBarContainer {
@@ -872,7 +875,7 @@
   border-radius: 5px;
   top: 10px;
   right: initial;
-  left: 75%;
+  left: 10px;
   background: #d22630;
   font-size: 0.9rem;
   font-weight: normal;

@@ -279,7 +279,10 @@
     }
   },
   "flex-layout.row#tiendas-row9-jal": {
-    "children": ["rich-text#tiendas-tienda25-jal"],
+    "children": [
+      "rich-text#tiendas-tienda25-jal",
+      "rich-text#tiendas-tienda26-jal"
+    ],
     "props": {
       "blockClass": "tiendas-row"
     }
@@ -288,6 +291,13 @@
     "title": "tienda-10",
     "props": {
       "text": "<span></span>\n**Nombre de la tienda:** Miniso Zona T\n**Dirección:** Carrera 13 #81-38  ",
+      "blockClass": "info-tienda"
+    }
+  },
+  "rich-text#tiendas-tienda26-jal": {
+    "title": "tienda-10",
+    "props": {
+      "text": "<span></span>\n**Nombre de la tienda:** Miniso Centro Comercial Paseo Villa del Río\n**Dirección:** Diagonal 57c sur 62-60 \n Local: 184-185  ",
       "blockClass": "info-tienda"
     }
   }

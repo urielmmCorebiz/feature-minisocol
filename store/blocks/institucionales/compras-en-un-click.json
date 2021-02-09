@@ -39,7 +39,7 @@
     },
     "image#whatsapp-compras-un-click": {
         "props": {
-            "src": "https://minisomx.vteximg.com.br/arquivos/whatsapp-pdp.png",
+            "src": "https://minisomx.vtexassets.com/assets/vtex.file-manager-graphql/images/whatsapp___a4ee5967bfc6a66adef38d8bedbcafcf.png",
             "blockClass": "whatsapp-faq",
             "maxWidth": "80px",
             "maxHeight": "auto",

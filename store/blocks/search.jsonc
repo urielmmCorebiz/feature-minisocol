@@ -86,7 +86,7 @@
       "blockClass": "searchResultLayoutDesktop",
       "preventRouteChange": true,
       "hiddenFacets": {
-        "priceRange": true
+        "priceRange": false
       },
       "mobileLayout": {
         "mode1": "small",
@@ -360,7 +360,7 @@
   "shelf#shelf-01-not-found": {
     "blocks": ["product-summary.shelf#default-shelf"],
     "props": {
-      "paginationDotsVisibility": "hidden",
+      "paginationDotsVisibility": "visible",
       "collection": "139",
       "productList": {
         "maxItems": 8,
@@ -408,7 +408,7 @@
   "shelf#shelf-02-not-found": {
     "blocks": ["product-summary.shelf#default-shelf"],
     "props": {
-      "paginationDotsVisibility": "hidden",
+      "paginationDotsVisibility": "visible",
       "collection": "173",
       "productList": {
         "maxItems": 8,
